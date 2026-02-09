@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is CE92-F032
+
+ Directory of D:\classwork_DevOps
+
+02/09/2026  02:19 PM    <DIR>          .
+02/09/2026  02:23 PM                 0 a.txt
+02/09/2026  02:15 PM    <DIR>          classwork_DevOps
+               1 File(s)              0 bytes
+               2 Dir(s)  30,626,521,088 bytes free
